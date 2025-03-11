@@ -1,45 +1,65 @@
 ![Fleek-Platform-GitHub-Banner](https://github.com/fleek-platform/.github/assets/55561695/d78a3d27-7e89-40ba-8624-feb7c4f8b67e)
 
+
 # Platform Overview
 
-Fleek is an edge-optimized cloud platform where users can prepare, host and deploy Web sites and applications. It enables developers to build fast, performant apps.
+Fleek is an edge-optimized cloud platform that enables developers to build, deploy, and scale AI agents and applications. 
+
+You can build and deploy next-generation apps and AI agents in minutes on an open-source, verifiable, auto-scalable Trusted Execution Environment powered cloud platform.
 
 ## What can I use Fleek for?
 
-The platform allows you to build, deploy, and scale apps regardless of the framework or library you used to output HTML. Most modern JS frameworks, such as React-based Gatsby, Go-based Hugo or Vue.js-powered VuePress are supported. Whether you’re interested in publishing a simple blog or creating a production Web app that serves a large userbase, Fleek’s tools allow you to go live effortlessly.
+Fleek provides a powerful and flexible environment to deploy applications and AI agents regardless of the framework or library used. Supported frameworks include:
 
-## For existing Web applications
+- **AI Agents**: Deploy, manage, and scale AI-powered agents using the Eliza framework.
+- **Web & App Hosting**: Deploy fullstack applications with support for frameworks such as Next.js, Astro, Gatsby, Nuxt, Vue, and more.
+- **Fleek Functions**: Execute server-side code via Fleek’s on-chain cloud infrastructure.
+- **On-Chain & Decentralized Computing**: Utilize Fleek Edge SGX for secure execution with Trusted Execution Environments (TEEs).
 
-If you already have a Web application you’re managing through another platform, Fleek also enables a frictionless migration process. All that you need to do in order to begin using Fleek in this way is to link to your existing repository and follow our guide.
+When deploying AI agents, Fleek ensures fast, reliable, and seamless performance.
 
-Once your site or app is live, the Fleek platform also provides you with tools to ensure you (and your users) are happy with the site’s performance. We understand how damaging to the user experience slow loading times can be, and take several measures to optimize performance, including:
+## AI Agent Hosting
 
-- Using Fleek Edge to run your application from 1,000+ locations globally, ensuring content is served with low latency from the source best suited to each user.
-- Enabling DDoS protection to eliminate down time arising from targeted attacks
-- Offering monitoring and alert services so any downtime can be quickly diagnosed
+Fleek now supports AI agent deployment, allowing users to create and manage intelligent agents using the **Eliza framework**. Go to [fleek.xyz/eliza]\([https://fleek.xyz/eliza/](https://fleek.xyz/eliza/)) to get started today.
 
-## How can I manage my application outside of the platform?
+Features include:
 
-Fleek also gives users the freedom to manage their application from their preferred interface. Updates pushed to the project-linked repository are automatically deployed through Fleek, and the triggers behind this can be controlled on a granular level through Fleek platform settings. If you prefer using a CLI or a custom application that leverages our SDK, you can read more about those tools here:
+- **One-click Deployment**: Easily upload character files or build AI agents from scratch.
+- **Custom Workflows**: Integrate AI capabilities with plugins and external APIs.
+- **Remote Attestation**: Ensure AI model integrity with trusted execution environments.
 
-- Read more about the Fleek CLI [here](https://fleek.xyz/docs/cli)
-- Read more about the Fleek SDK [here](https://fleek.xyz/docs/sdk)
+## Managing applications outside of the platform
+
+Fleek offers flexibility in managing applications through multiple interfaces:
+
+- **Fleek Web Interface**: A user-friendly dashboard to manage deployments.
+- **Fleek CLI**: Direct terminal interaction for streamlined automation. [Read more](https://fleek.xyz/docs/cli)
+- **Fleek SDK**: A TypeScript library to integrate Fleek’s services into custom applications. [Read more](https://fleek.xyz/docs/sdk)
 
 ## Using Fleek
 
-Speed is critical to our offerings at Fleek, and a focus on speed has informed not only the tools we expose for use externally with your Web apps but also within our own user experience. You can learn more about features within the platform by reading the pages that follow this one in our documentation or following one of our [guides](https://fleek.xyz/guides).
+Speed and efficiency are core to Fleek’s offerings. To get started:
 
-To get started, create an account [here](https://app.fleek.xyz).
+1. Create an account: [Sign up](https://app.fleek.xyz)
+2. Deploy AI agents or applications with minimal setup.
+3. Leverage Fleek’s global infrastructure for optimal performance.
 
-We recognize that the speed and performance of your Web application is also tied to the speed of your development process, and with that in mind have sought to make the platform as intuitive as possible. It is paramount that you feel comfortable using Fleek so that you can ship the latest version of your Web application without encountering unexpected hurdles.
+For more details, explore our [documentation](https://fleek.xyz/docs) and [guides](https://fleek.xyz/guides).
 
-## On-chain services
+## Help and Tutorials
 
-Certain apps may benefit from integrations with on-chain tools and services, and to that end we offer the best of on-chain storage, compute, and decentralized CDN services through the platform. Even if you don't have experience using on-chain services, we strive to make the experience as user-friendly as possible.
+Find links to useful resources to help get started, understand a concept or to get yourself onboarded to using Fleek for building edge-optimized applications.
 
-## Need help getting started?
+- [Fleek AI Agents API: Step-by-step guide]\([https://fleek.xyz/guides/fleek-ai-agents-api](https://fleek.xyz/guides/fleek-ai-agents-api))
+- [Quickly Deploy A Next.js App To IPFS Using Fleek CLI]\([https://www.youtube.com/watch?v=ZR6hoLODDvI](https://www.youtube.com/watch?v=ZR6hoLODDvI))
+- [Deploy an Astro App to IPFS Using Fleek CLI]\([https://www.youtube.com/watch?v=PejRu-zaJtY](https://www.youtube.com/watch?v=PejRu-zaJtY))
 
-Need a boilerplate to get started quickly? Our platform offers you several boilerplate templates of apps you can deploy, or you can check out several guides for walkthroughs on specific projects
+Kickstart your project with boilerplate templates and step-by-step guides:
 
-- Browse our [templates](https://app.fleek.xyz/templates)
-- Read our [guides](https://fleek.xyz/guides)
+- Browse our [templates](https://app.fleek.xyz/templates/)
+- Read our [guides](https://fleek.xyz/guides/)
+- Join our community on [Discord](https://discord.com/invite/fleek)
+
+
+With Fleek, deploying AI agents and web applications has never been easier. Get started today!
+
