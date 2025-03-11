@@ -20,7 +20,7 @@ When deploying AI agents, Fleek ensures fast, reliable, and seamless performance
 
 ## AI Agent Hosting
 
-Fleek now supports AI agent deployment, allowing users to create and manage intelligent agents using the **Eliza framework**. Go to [fleek.xyz/eliza]([https://fleek.xyz/eliza/] to get started today.
+Fleek now supports AI agent deployment, allowing users to create and manage intelligent agents using the **Eliza framework**. Go to [fleek.xyz/eliza](https://fleek.xyz/eliza/) to get started today.
 
 Features include:
 
