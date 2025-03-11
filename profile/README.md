@@ -50,9 +50,9 @@ For more details, explore our [documentation](https://fleek.xyz/docs) and [guide
 
 Find links to useful resources to help get started, understand a concept or to get yourself onboarded to using Fleek for building edge-optimized applications.
 
-- [Fleek AI Agents API: Step-by-step guide]\([https://fleek.xyz/guides/fleek-ai-agents-api](https://fleek.xyz/guides/fleek-ai-agents-api))
-- [Quickly Deploy A Next.js App To IPFS Using Fleek CLI]\([https://www.youtube.com/watch?v=ZR6hoLODDvI](https://www.youtube.com/watch?v=ZR6hoLODDvI))
-- [Deploy an Astro App to IPFS Using Fleek CLI]\([https://www.youtube.com/watch?v=PejRu-zaJtY](https://www.youtube.com/watch?v=PejRu-zaJtY))
+- [Fleek AI Agents API: Step-by-step guide](https://fleek.xyz/guides/fleek-ai-agents-api](https://fleek.xyz/guides/fleek-ai-agents-api)
+- [Quickly Deploy A Next.js App To IPFS Using Fleek CLI](https://www.youtube.com/watch?v=ZR6hoLODDvI](https://www.youtube.com/watch?v=ZR6hoLODDvI)
+- [Deploy an Astro App to IPFS Using Fleek CLI](https://www.youtube.com/watch?v=PejRu-zaJtY](https://www.youtube.com/watch?v=PejRu-zaJtY)
 
 Kickstart your project with boilerplate templates and step-by-step guides:
 
