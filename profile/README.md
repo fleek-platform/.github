@@ -11,7 +11,7 @@ You can build and deploy next-generation apps and AI agents in minutes on an ope
 
 Fleek provides a powerful and flexible environment to deploy applications and AI agents regardless of the framework or library used. Supported frameworks include:
 
-- **AI Agents**: Deploy, manage, and scale AI-powered agents using the Eliza framework.
+- **AI Agents**: Deploy, manage, and scale AI-powered agents.
 - **Web & App Hosting**: Deploy fullstack applications with support for frameworks such as Next.js, Astro, Gatsby, Nuxt, Vue, and more.
 - **Fleek Functions**: Execute server-side code via Fleek’s on-chain cloud infrastructure.
 - **On-Chain & Decentralized Computing**: Utilize Fleek Edge SGX for secure execution with Trusted Execution Environments (TEEs).
