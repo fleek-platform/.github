@@ -40,19 +40,19 @@ Fleek offers flexibility in managing applications through multiple interfaces:
 
 Speed and efficiency are core to Fleek’s offerings. To get started:
 
-1. Create an account: [Sign up](https://app.fleek.xyz)
+1. Create an account: [Sign up](https://app.fleek.xyz/)
 2. Deploy AI agents or applications with minimal setup.
 3. Leverage Fleek’s global infrastructure for optimal performance.
 
-For more details, explore our [documentation](https://fleek.xyz/docs) and [guides](https://fleek.xyz/guides).
+For more details, explore our [documentation](https://fleek.xyz/docs/) and [guides](https://fleek.xyz/guides/).
 
 ## Help and Tutorials
 
-Find links to useful resources to help get started, understand a concept or to get yourself onboarded to using Fleek for building edge-optimized applications.
+Find links to useful resources to help get started, understand a concept, or get onboarded to using Fleek for building AI agents and edge-optimized applications.
 
-- [Fleek AI Agents API: Step-by-step guide](https://fleek.xyz/guides/fleek-ai-agents-api](https://fleek.xyz/guides/fleek-ai-agents-api)
-- [Quickly Deploy A Next.js App To IPFS Using Fleek CLI](https://www.youtube.com/watch?v=ZR6hoLODDvI](https://www.youtube.com/watch?v=ZR6hoLODDvI)
-- [Deploy an Astro App to IPFS Using Fleek CLI](https://www.youtube.com/watch?v=PejRu-zaJtY](https://www.youtube.com/watch?v=PejRu-zaJtY)
+- [Fleek AI Agents API: Step-by-step guide](https://fleek.xyz/guides/fleek-ai-agents-api)
+- [Quickly Deploy A Next.js App To IPFS Using Fleek CLI](https://www.youtube.com/watch?v=ZR6hoLODDvI)
+- [Deploy an Astro App to IPFS Using Fleek CLI](https://www.youtube.com/watch?v=PejRu-zaJtY)
 
 Kickstart your project with boilerplate templates and step-by-step guides:
 
@@ -60,6 +60,4 @@ Kickstart your project with boilerplate templates and step-by-step guides:
 - Read our [guides](https://fleek.xyz/guides/)
 - Join our community on [Discord](https://discord.com/invite/fleek)
 
-
 With Fleek, deploying AI agents and web applications has never been easier. Get started today!
-
