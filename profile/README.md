@@ -77,8 +77,8 @@ The **$FLK** token powers the Fleek ecosystem — connecting creators, fans, and
 
 ## 📚 Learn More
 
-- [Whitepaper (coming soon)](#)
-- [Tokenomics Overview](#)
+- [Docs](https://learn.fleek.xyz)
+- [Tokenomics Overview](https://learn.fleek.xyz/flk/tokenomics)
 - [Join the Fleek Discord](https://discord.gg/fleek)
 - [Follow us on X](https://x.com/fleekxyz)
 
