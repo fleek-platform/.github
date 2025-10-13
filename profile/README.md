@@ -1,63 +1,88 @@
-![Fleek-Platform-GitHub-Banner](https://github.com/fleek-platform/.github/assets/55561695/d78a3d27-7e89-40ba-8624-feb7c4f8b67e)
+![Fleek-Platform-GitHub-Banner](https://learn.fleek.xyz/~gitbook/image?url=https%3A%2F%2F236646025-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FytrsZzQj49ybwmo8gdpa%252Fuploads%252FE9I0kK88qSFIJjPQTWT1%252F4972.png%3Falt%3Dmedia%26token%3D3cd60cab-359b-4c8a-a0eb-a1367d474134&width=1248&dpr=1&quality=100&sign=9f3bcfc2&sv=2)
 
 
-# Platform Overview
+# ⚡ Fleek
 
-Fleek is an edge-optimized cloud platform that enables developers to build, deploy, and scale AI agents and applications. 
+**Create. Influence. Earn.**  
+Fleek is an AI-powered social platform that redefines how creativity meets ownership.  
+We’re building a new kind of creator economy — where imagination becomes influence and social finally gives back.
 
-You can build and deploy next-generation apps and AI agents in minutes on an open-source, verifiable, auto-scalable Trusted Execution Environment powered cloud platform.
+---
 
-## What can I use Fleek for?
+## 🌍 Overview
 
-Fleek provides a powerful and flexible environment to deploy applications and AI agents regardless of the framework or library used. Supported frameworks include:
+Fleek began as an edge-optimized web hosting platform.  
+Today, it has evolved into **the first AI-native social app for Vibe Influencing** — a movement where creators use AI to craft, share, and own their digital identity and creativity.
 
-- **AI Agents**: Deploy, manage, and scale AI-powered agents.
-- **Web & App Hosting**: Deploy fullstack applications with support for frameworks such as Next.js, Astro, Gatsby, Nuxt, Vue, and more.
-- **Fleek Functions**: Execute server-side code via Fleek’s on-chain cloud infrastructure.
-- **On-Chain & Decentralized Computing**: Utilize Fleek Edge SGX for secure execution with Trusted Execution Environments (TEEs).
+Fleek empowers creators and influencers with AI-driven tools that make it easy to:
+- **Create without limits:** Generate, remix, and transform photos or videos effortlessly using AI.
+- **Share your vibe:** Post anywhere, connect your socials, or build directly on Fleek.
+- **Get rewarded for creativity:** Earn tips, tokens, and support from your community.
+- **Grow a loyal following:** Turn followers into backers who share your success.
 
-When deploying AI agents, Fleek ensures fast, reliable, and seamless performance.
+---
 
-## AI Agent Hosting
+## 🎨 What is Vibe Influencing?
 
-Fleek now supports AI agent deployment, allowing users to create and manage intelligent agents using the **Eliza framework**. Go to [fleek.xyz/eliza](https://fleek.xyz/eliza/) to get started today.
+Vibe Influencing is a new social format where creativity becomes interactive and financially rewarding.  
+Instead of likes and views, creators earn real value for their aesthetic, their energy — their vibe.
 
-Features include:
+> Where perfect is just a prompt away.  
+> Where imagination drives engagement.  
+> Where creators own their audience and rewards.
 
-- **One-click Deployment**: Easily upload character files or build AI agents from scratch.
-- **Custom Workflows**: Integrate AI capabilities with plugins and external APIs.
-- **Remote Attestation**: Ensure AI model integrity with trusted execution environments.
+---
 
-## Managing applications outside of the platform
+## ⚙️ Core Features
 
-Fleek offers flexibility in managing applications through multiple interfaces:
+| Feature | Description |
+|----------|--------------|
+| **AI Creation Tools** | Transform your photos, videos, and content with built-in generative AI. |
+| **Creator Tokens** | Launch your own creator token to represent your brand, art, or influence. |
+| **Vibe Feed** | A dynamic feed where creativity, ownership, and rewards intersect. |
+| **Backer System** | Let your fans and followers tip, invest, or support your journey directly. |
+| **$FLK Rewards** | Earn tokens through engagement, tips, and creative impact. |
 
-- **Fleek Web Interface**: A user-friendly dashboard to manage deployments.
-- **Fleek CLI**: Direct terminal interaction for streamlined automation. [Read more](https://fleek.xyz/docs/cli)
-- **Fleek SDK**: A TypeScript library to integrate Fleek’s services into custom applications. [Read more](https://fleek.xyz/docs/sdk)
+---
 
-## Using Fleek
+## 💰 The $FLK Token
 
-Speed and efficiency are core to Fleek’s offerings. To get started:
+The **$FLK** token powers the Fleek ecosystem — connecting creators, fans, and AI innovation.
 
-1. Create an account: [Sign up](https://app.fleek.xyz/)
-2. Deploy AI agents or applications with minimal setup.
-3. Leverage Fleek’s global infrastructure for optimal performance.
+**Token Functions:**
+- **Creator Tokens:** Each creator on Fleek is backed by a unique token, purchased using $FLK.  
+- **Tipping & Rewards:** Fans use $FLK to reward creators via tips, super likes, and engagement bonuses.  
+- **Access & Visibility:** Staking $FLK unlocks enhanced features and visibility on the platform.  
+- **Sustainable Economy:** A portion of platform fees recycles into the $FLK treasury to support creators and app growth.
 
-For more details, explore our [documentation](https://fleek.xyz/docs/) and [guides](https://fleek.xyz/guides/).
+> $FLK fuels creativity — powering ownership, rewards, and the next era of social engagement.
 
-## Help and Tutorials
+---
 
-Find links to useful resources to help get started, understand a concept, or get onboarded to using Fleek for building AI agents and edge-optimized applications.
+## 🧩 Fleek Ecosystem
 
-- [Fleek AI Agents API: Step-by-step guide](https://fleek.xyz/guides/fleek-ai-agents-api)
-- [Quickly Deploy A Next.js App To IPFS Using Fleek CLI](https://www.youtube.com/watch?v=ZR6hoLODDvI)
-- [Deploy an Astro App to IPFS Using Fleek CLI](https://www.youtube.com/watch?v=PejRu-zaJtY)
+- **Fleek App:** Main social platform for creators and communities.  
+- **Fleek Tokens:** Creator and backer token economy powered by $FLK.  
+- **Fleek AI Stack:** Proprietary AI tools that make creativity seamless, fast, and intuitive.  
 
-Kickstart your project with boilerplate templates and step-by-step guides:
+---
 
-- Browse our [templates](https://app.fleek.xyz/templates/)
-- Read our [guides](https://fleek.xyz/guides/)
-- Join our community on [Discord](https://discord.com/invite/fleek)
+## 🚀 Getting Started
 
-With Fleek, deploying AI agents and web applications has never been easier. Get started today!
+1. [Join the Waitlist](https://fleek.xyz)  
+2. Download the Fleek app on **iOS** or **Android**.  
+3. Create your vibe, mint your token, and start earning from your creativity.
+
+---
+
+## 📚 Learn More
+
+- [Whitepaper (coming soon)](#)
+- [Tokenomics Overview](#)
+- [Join the Fleek Discord](https://discord.gg/fleek)
+- [Follow us on X](https://x.com/fleekxyz)
+
+---
+
+### ✨ Fleek
+*The era of social ownership has begun.*
